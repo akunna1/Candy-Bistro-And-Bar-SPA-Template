@@ -6,44 +6,45 @@ A girly-themed single-page application (SPA) template for a coffee shop website,
 
 This project is a stylish and feminine website template designed for a coffee ☕️ shop or bistro called **Candy Bistro & Bar**. It features a clean layout, smooth navigation, and a charming pastel aesthetic perfect for cafes, bakeries, or bars targeting a trendy, girly vibe.
 
+## Repository Structure
+
+* **App.jsx** — Main React component and entry point of the app
+* **App.css** — Styling for the app, includes girly pastel-themed styles
+* **index.html** — HTML template hosting the React app
+* **package.json** — Project metadata and dependencies
+
 ## Features
 
-* Single-page React.js app
-* Responsive design for mobile and desktop
-* Soft pastel color scheme with girly theme
-* Clean and modern layout
-* Smooth scrolling navigation
-* Easily customizable components and styles
-
-## Technologies Used
-
-* React.js
-* CSS (custom styles)
+* React.js SPA with smooth navigation
+* Responsive design for desktop and mobile
+* Pastel color scheme with a feminine touch
+* Clean and modern layout with easy customization
 
 ## Getting Started
 
-1. Clone the repository:
-
-   ```
-   git clone <repo-url>
-   ```
-
+1. Clone the repository
 2. Install dependencies:
 
    ```
    npm install
    ```
-
 3. Run the app locally:
 
    ```
    npm start
    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to view.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Customization
 
-* Update components in the `src` folder to modify layout and content.
-* Change styles in the CSS files to adjust colors, fonts, and spacing.
+* Modify **App.jsx** to change content and structure
+* Update **App.css** to adjust styles, colors, and layout
+* Edit **index.html** to change metadata or include external scripts
 
+## License
+
+This project is open source and free to use for personal or commercial purposes.
+
+---
+
+Let me know if you want me to add or tweak anything else!
