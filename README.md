@@ -1,10 +1,10 @@
-# Candy Bistro & Bar Template ☕🍬
+# Candy Bistro & Bar Template 🧁
 
 A girly-themed single-page application (SPA) template for a coffee shop website, built with React.js and CSS.
 
 ## About
 
-This project is a stylish and feminine website template designed for a coffee shop or bistro called **Candy Bistro & Bar**. It features a clean layout, smooth navigation, and a charming pastel aesthetic perfect for cafes, bakeries, or bars targeting a trendy, girly vibe.
+This project is a stylish and feminine website template designed for a coffee ☕️ shop or bistro called **Candy Bistro & Bar**. It features a clean layout, smooth navigation, and a charming pastel aesthetic perfect for cafes, bakeries, or bars targeting a trendy, girly vibe.
 
 ## Features
 
