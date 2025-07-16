@@ -20,21 +20,6 @@ This project is a stylish and feminine website template designed for a coffee â˜
 * Pastel color scheme with a feminine touch
 * Clean and modern layout with easy customization
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies:
-
-   ```
-   npm install
-   ```
-3. Run the app locally:
-
-   ```
-   npm start
-   ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
 ## Customization
 
 * Modify **App.jsx** to change content and structure
