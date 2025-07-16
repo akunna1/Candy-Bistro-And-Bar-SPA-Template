@@ -44,7 +44,3 @@ This project is a stylish and feminine website template designed for a coffee â˜
 ## License
 
 This project is open source and free to use for personal or commercial purposes.
-
----
-
-Let me know if you want me to add or tweak anything else!
